@@ -7,7 +7,7 @@ sites:
     url: https://boiledbhoot.org/
   - name: OSMBDF
     url: https://osmbdf.org/
-  - name: OSMBDF
+  - name: OSMBD
     url: https://osmbd.org/    
 
 status-website:
