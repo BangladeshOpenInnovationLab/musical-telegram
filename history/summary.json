@@ -23,17 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/osmbdf.org",
     "slug": "osmbdf",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "uptime": "98.58%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   },
   {
     "name": "OSMBDF",
@@ -41,16 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/osmbd.org",
     "slug": "osmbdf",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
-    "dailyMinutesDown": {}
+    "uptime": "98.58%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "98.58%",
+    "uptimeYear": "98.58%",
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   }
 ]
