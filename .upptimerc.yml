@@ -11,8 +11,8 @@ sites:
     url: https://osmbd.org/    
   - name: "m4r"
     url: $M4R_URL
-  - name: "failed"
-    url: https://f.osm.org/
+  - name: "error1"
+    url: https://idk.boiledbhoot.org/
 
 
 status-website:
