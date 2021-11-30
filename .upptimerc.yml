@@ -10,7 +10,7 @@ sites:
   - name: OSMBD
     url: https://osmbd.org/    
   - name: "error"
-    url: https://idk.boiledbhoot.org/
+    url: https://udk.boiledbhoot.org/
   - name: "m4r"
     url: $M4R_URL
 
