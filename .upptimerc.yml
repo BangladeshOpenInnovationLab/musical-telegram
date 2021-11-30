@@ -9,10 +9,10 @@ sites:
     url: https://osmbdf.org/
   - name: OSMBD
     url: https://osmbd.org/    
-  - name: "error"
-    url: https://udk.boiledbhoot.org/
   - name: "m4r"
     url: $M4R_URL
+  - name: "test"
+    url: test.oo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
