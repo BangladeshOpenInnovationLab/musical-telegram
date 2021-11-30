@@ -9,8 +9,8 @@ sites:
     url: https://osmbdf.org/
   - name: OSMBD
     url: https://osmbd.org/    
-  - name: "don't exist"
-    url: https://thissitedoesnotexist.koj.co/
+  - name: "error"
+    url: https://idk.boiledbhoot.org/
   - name: "m4r"
     url: $M4R_URL
 
