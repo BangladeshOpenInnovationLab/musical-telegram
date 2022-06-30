@@ -4,19 +4,19 @@
     "url": "https://boiledbhoot.org/",
     "icon": "https://favicons.githubusercontent.com/boiledbhoot.org",
     "slug": "boil",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 95,
-    "timeWeek": 192,
-    "timeMonth": 220,
-    "timeYear": 266,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "77.52%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.89%",
+    "time": 265,
+    "timeDay": 81,
+    "timeWeek": 177,
+    "timeMonth": 214,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-06-30": 9
+      "2022-06-30": 324
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://osmbd.org/",
     "icon": "https://favicons.githubusercontent.com/osmbd.org",
     "slug": "osmbd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 164,
-    "timeWeek": 225,
-    "timeMonth": 508,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "77.52%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.89%",
+    "time": 266,
+    "timeDay": 129,
+    "timeWeek": 206,
+    "timeMonth": 494,
+    "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-06-30": 9
+      "2022-06-30": 324
     }
   },
   {
