@@ -2,7 +2,7 @@
   {
     "name": "BOIL",
     "url": "https://boiledbhoot.org/",
-    "icon": "https://favicons.githubusercontent.com/boiledbhoot.org",
+    "icon": "https://icons.duckduckgo.com/ip3/boiledbhoot.org.ico",
     "slug": "boil",
     "status": "up",
     "uptime": "99.93%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 254,
-    "timeDay": 234,
+    "timeDay": 177,
     "timeWeek": 254,
-    "timeMonth": 229,
+    "timeMonth": 233,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2022-06-30": 324
@@ -22,7 +22,7 @@
   {
     "name": "OSMBDF",
     "url": "https://osmbdf.org/",
-    "icon": "https://favicons.githubusercontent.com/osmbdf.org",
+    "icon": "https://icons.duckduckgo.com/ip3/osmbdf.org.ico",
     "slug": "osmbdf",
     "status": "up",
     "uptime": "99.43%",
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 239,
-    "timeDay": 286,
-    "timeWeek": 226,
-    "timeMonth": 218,
+    "timeDay": 130,
+    "timeWeek": 200,
+    "timeMonth": 217,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2021-12-01": 958,
@@ -44,7 +44,7 @@
   {
     "name": "OSMBD",
     "url": "https://osmbd.org/",
-    "icon": "https://favicons.githubusercontent.com/osmbd.org",
+    "icon": "https://icons.duckduckgo.com/ip3/osmbd.org.ico",
     "slug": "osmbd",
     "status": "up",
     "uptime": "99.93%",
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 250,
-    "timeDay": 192,
-    "timeWeek": 235,
-    "timeMonth": 201,
+    "timeDay": 138,
+    "timeWeek": 232,
+    "timeMonth": 198,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2022-06-30": 324
@@ -64,7 +64,7 @@
   {
     "name": "m4r",
     "url": "$M4R_URL",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m4r",
     "status": "up",
     "uptime": "100.00%",
@@ -73,16 +73,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 132,
-    "timeWeek": 175,
-    "timeMonth": 182,
+    "timeDay": 278,
+    "timeWeek": 190,
+    "timeMonth": 189,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
     "name": "error1",
     "url": "https://idk.boiledbhoot.org/",
-    "icon": "https://favicons.githubusercontent.com/idk.boiledbhoot.org",
+    "icon": "https://icons.duckduckgo.com/ip3/idk.boiledbhoot.org.ico",
     "slug": "error1",
     "status": "down",
     "uptime": "99.15%",
