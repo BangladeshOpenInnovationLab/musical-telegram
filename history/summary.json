@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 255,
-    "timeDay": 182,
-    "timeWeek": 331,
-    "timeMonth": 258,
-    "timeYear": 242,
+    "timeDay": 205,
+    "timeWeek": 323,
+    "timeMonth": 260,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-06-30": 324
     }
@@ -29,15 +29,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.83%",
     "time": 240,
-    "timeDay": 92,
-    "timeWeek": 303,
+    "timeDay": 265,
+    "timeWeek": 294,
     "timeMonth": 256,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2021-12-01": 958
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OSMBD",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 246,
-    "timeDay": 301,
-    "timeWeek": 307,
-    "timeMonth": 253,
-    "timeYear": 246,
+    "time": 245,
+    "timeDay": 170,
+    "timeWeek": 298,
+    "timeMonth": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2022-06-30": 324
     }
@@ -71,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 67,
-    "timeWeek": 204,
-    "timeMonth": 219,
+    "timeDay": 159,
+    "timeWeek": 194,
+    "timeMonth": 217,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -83,19 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/idk.boiledbhoot.org.ico",
     "slug": "error1",
     "status": "down",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-02": 923,
-      "2021-12-01": 1440
+      "2021-12-02": 923
     }
   }
 ]
