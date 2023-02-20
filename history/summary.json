@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 247,
-    "timeDay": 384,
-    "timeWeek": 222,
-    "timeMonth": 192,
+    "timeDay": 154,
+    "timeWeek": 203,
+    "timeMonth": 195,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-06-30": 324
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 179,
-    "timeWeek": 161,
-    "timeMonth": 276,
+    "timeDay": 153,
+    "timeWeek": 158,
+    "timeMonth": 279,
     "timeYear": 239,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 244,
-    "timeDay": 329,
-    "timeWeek": 224,
-    "timeMonth": 246,
-    "timeYear": 249,
+    "timeDay": 122,
+    "timeWeek": 202,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2022-06-30": 324
     }
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 155,
+    "time": 208,
+    "timeDay": 306,
     "timeWeek": 193,
-    "timeMonth": 180,
+    "timeMonth": 185,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idk.boiledbhoot.org.ico",
     "slug": "error1",
     "status": "down",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
