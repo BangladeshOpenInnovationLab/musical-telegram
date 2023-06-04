@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 228,
-    "timeDay": 239,
-    "timeWeek": 180,
-    "timeMonth": 228,
+    "timeDay": 240,
+    "timeWeek": 190,
+    "timeMonth": 227,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2022-06-30": 324
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 224,
+    "timeDay": 214,
     "timeWeek": 210,
-    "timeMonth": 233,
+    "timeMonth": 235,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 237,
-    "timeDay": 233,
-    "timeWeek": 207,
-    "timeMonth": 213,
+    "timeDay": 175,
+    "timeWeek": 209,
+    "timeMonth": 214,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-06-30": 324
@@ -69,8 +69,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 222,
-    "timeWeek": 217,
+    "timeDay": 173,
+    "timeWeek": 212,
     "timeMonth": 227,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -81,7 +81,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/idk.boiledbhoot.org.ico",
     "slug": "error1",
     "status": "down",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
