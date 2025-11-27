@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/osmbdf.org.ico",
     "slug": "osmbdf",
     "status": "down",
-    "uptime": "99.76%",
+    "uptime": "99.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "64.30%",
+    "uptimeMonth": "91.78%",
+    "uptimeYear": "99.32%",
     "time": 272,
     "timeDay": 0,
     "timeWeek": 330,
     "timeMonth": 259,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2025-11-27": 67,
+      "2025-11-27": 1099,
       "2025-11-26": 1440,
       "2025-11-25": 1060
     }
@@ -44,10 +44,10 @@
     "url": "https://osmbd.org/",
     "icon": "https://icons.duckduckgo.com/ip3/osmbd.org.ico",
     "slug": "osmbd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
@@ -55,14 +55,16 @@
     "timeWeek": 308,
     "timeMonth": 261,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-27": 1
+    }
   },
   {
     "name": "m4r",
     "url": "$M4R_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "m4r",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
